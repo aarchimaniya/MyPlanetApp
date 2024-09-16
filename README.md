@@ -1,16 +1,29 @@
-# solar_systems
 
-A new Flutter project.
+## My PlannetApp 🌍
+## Introduction
+Plannet App is an interactive animation app featuring a rotating and moving planet. The app showcases smooth animations and movements, making the planet come to life! Explore the virtual space and interact with the planet as it moves across the screen, creating an engaging and dynamic experience.
 
-## Getting Started
+## Features
+ - 🪐 Animated Planet: Enjoy smooth animations of a rotating and moving planet.
+ - 🌍 Interactive Experience: Interact with the planet as it moves across the screen.
+ - 🌌 Dynamic Design: The app brings a space-themed experience with responsive animations.
+ - 🎨 Customizable: Beautiful UI with options to tweak the planet's movement and design.
 
-This project is a starting point for a Flutter application.
+## 🛠️ Technologies
+- Flutter: Framework for building the app.
+- Dart: Language used for the app development.
+- Custom Animations: Built using Flutter’s animation libraries.
+- Provider: For managing the app state.
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Getting Started
+- Prerequisites
+- Flutter SDK
+- Dart
+- Android Studio or VS Code (for development)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Instruction:
+No Copying: Do not copy code or any other content from your classmates or any other source. Plagiarism is strictly prohibited and can result in severe consequences, including academic penalties. Ensure that all the code and content in your project are original and properly attributed to the appropriate sources, if applicable.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Images:
+
+-<img src="https://github.com/user-attachments/assets/5190f014-cd68-412d-bba1-a0fcec1a0bbe" width="250">
