@@ -26,4 +26,7 @@ No Copying: Do not copy code or any other content from your classmates or any ot
 
 ## Images:
 
--<img src="https://github.com/user-attachments/assets/5190f014-cd68-412d-bba1-a0fcec1a0bbe" width="250">
+-<img src="https://github.com/user-attachments/assets/a87f5577-f4b5-4073-a319-fb04c0f6ea94" width="250">
+-<img src="https://github.com/user-attachments/assets/dc9c96d1-9408-4c54-bb8e-cd124988ad50" width="250">
+-<img src="https://github.com/user-attachments/assets/24267488-eb95-47e7-abcb-9aa5e6dc36f6" width="250">
+-<img src="https://github.com/user-attachments/assets/34613fc1-92d4-4b3f-8467-4b5f3d8d87fb" width="250">
